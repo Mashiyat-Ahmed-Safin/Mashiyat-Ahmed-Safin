@@ -54,9 +54,9 @@ A cozy library management game with a mysterious twist, made with **Team Edgerun
 ## Tech Stack
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,cs,cpp,js,mysql&theme=dark" /><img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,mysql&theme=light" alt="Python, Java, C#, C++, JavaScript, MySQL" /></picture><br /><br />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity,linux,windows,powershell,bash&theme=dark" /><img src="https://skillicons.dev/icons?i=unity,linux,windows,powershell,bash&theme=light" alt="Unity, Linux, Windows, PowerShell, Bash" /></picture><br /><br />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" /><img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=light" alt="Git, GitHub, VS Code, Node.js" /></picture><br /><br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Ccs%2Ccpp%2Cjs%2Cmysql&theme=dark" /><img src="https://skillicons.dev/icons?i=python%2Cjava%2Ccs%2Ccpp%2Cjs%2Cmysql&theme=light" alt="Python, Java, C#, C++, JavaScript, MySQL" /></picture><br /><br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity%2Clinux%2Cwindows%2Cpowershell%2Cbash&theme=dark" /><img src="https://skillicons.dev/icons?i=unity%2Clinux%2Cwindows%2Cpowershell%2Cbash&theme=light" alt="Unity, Linux, Windows, PowerShell, Bash" /></picture><br /><br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cnodejs&theme=dark" /><img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cnodejs&theme=light" alt="Git, GitHub, VS Code, Node.js" /></picture><br /><br />
   <picture><img src="assets/tools.svg" height="40" alt="Wireshark, Cisco Packet Tracer, TCP/IP" /></picture>
 </p>
 

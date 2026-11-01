@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mashiyat Ahmed Safin">
+<style>
+.blob { animation: float 14s ease-in-out infinite alternate }
+.b2 { animation-duration: 18s; animation-direction: alternate-reverse }
+.b3 { animation-duration: 22s }
+@keyframes float { from { transform: translate(0,0) } to { transform: translate(80px,30px) } }
+.fade { animation: fadein 1.2s ease-out both }
+@keyframes fadein { from { opacity:0; transform: translateY(8px) } to { opacity:1; transform:none } }
+.blink { }
+
+@keyframes show0 { 0%,0.00% {opacity:0} 0.01%,24.50% {opacity:1} 24.51%,100% {opacity:0} }
+@keyframes type0 { 0%,0.00% {width:0} 10.00%,100% {width:321px} }
+@keyframes car0 { 0%,0.00% {transform:translateX(441.6px)} 10.00%,100% {transform:translateX(762.4px)} }
+.g0 { animation: show0 14.0s linear infinite; opacity:0 }
+.c0 { animation: type0 14.0s steps(24) infinite; width:0 }
+.k0 { animation: car0 14.0s steps(24) infinite }
+@keyframes show1 { 0%,25.00% {opacity:0} 25.01%,49.50% {opacity:1} 49.51%,100% {opacity:0} }
+@keyframes type1 { 0%,25.00% {width:0} 35.00%,100% {width:360px} }
+@keyframes car1 { 0%,25.00% {transform:translateX(421.8px)} 35.00%,100% {transform:translateX(782.2px)} }
+.g1 { animation: show1 14.0s linear infinite; opacity:0 }
+.c1 { animation: type1 14.0s steps(27) infinite; width:0 }
+.k1 { animation: car1 14.0s steps(27) infinite }
+@keyframes show2 { 0%,50.00% {opacity:0} 50.01%,74.50% {opacity:1} 74.51%,100% {opacity:0} }
+@keyframes type2 { 0%,50.00% {width:0} 60.00%,100% {width:334px} }
+@keyframes car2 { 0%,50.00% {transform:translateX(435.0px)} 60.00%,100% {transform:translateX(769.0px)} }
+.g2 { animation: show2 14.0s linear infinite; opacity:0 }
+.c2 { animation: type2 14.0s steps(25) infinite; width:0 }
+.k2 { animation: car2 14.0s steps(25) infinite }
+@keyframes show3 { 0%,75.00% {opacity:0} 75.01%,99.50% {opacity:1} 99.51%,100% {opacity:0} }
+@keyframes type3 { 0%,75.00% {width:0} 85.00%,100% {width:466px} }
+@keyframes car3 { 0%,75.00% {transform:translateX(369.0px)} 85.00%,100% {transform:translateX(835.0px)} }
+.g3 { animation: show3 14.0s linear infinite; opacity:0 }
+.c3 { animation: type3 14.0s steps(35) infinite; width:0 }
+.k3 { animation: car3 14.0s steps(35) infinite }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060912"/><stop offset="1" stop-color="#0c1322"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.03"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.08"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.22"/></linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+  <clipPath id="frame"><rect width="1200" height="300" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <g filter="url(#blur)" opacity="0.75">
+    <circle class="blob" cx="230" cy="90" r="120" fill="#2563eb"/>
+    <circle class="blob b2" cx="980" cy="210" r="140" fill="#7c3aed"/>
+    <circle class="blob b3" cx="620" cy="300" r="110" fill="#06b6d4"/>
+  </g>
+  <rect x="60" y="40" width="1080" height="220" rx="22" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+  <g class="fade">
+    <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f8fafc" letter-spacing="0.5">Mashiyat Ahmed Safin</text>
+    <text x="600" y="170" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="18" fill="#94a3b8" letter-spacing="3">SECURITY  ·  GAMES  ·  COMPUTER SCIENCE</text>
+  </g>
+  <g class="g0">
+    <clipPath id="cp0"><rect class="c0" x="441.6" y="200" height="40" width="0"/></clipPath>
+    <text x="441.6" y="228" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#7dd3fc" clip-path="url(#cp0)">Cybersecurity Enthusiast</text>
+    <rect class="k0 blink" x="0" y="207" width="2.5" height="26" fill="#7dd3fc"/>
+  </g>
+  <g class="g1">
+    <clipPath id="cp1"><rect class="c1" x="421.8" y="200" height="40" width="0"/></clipPath>
+    <text x="421.8" y="228" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#7dd3fc" clip-path="url(#cp1)">Game Developer | Unity &amp; C#</text>
+    <rect class="k1 blink" x="0" y="207" width="2.5" height="26" fill="#7dd3fc"/>
+  </g>
+  <g class="g2">
+    <clipPath id="cp2"><rect class="c2" x="435.0" y="200" height="40" width="0"/></clipPath>
+    <text x="435.0" y="228" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#7dd3fc" clip-path="url(#cp2)">Computer Science Graduate</text>
+    <rect class="k2 blink" x="0" y="207" width="2.5" height="26" fill="#7dd3fc"/>
+  </g>
+  <g class="g3">
+    <clipPath id="cp3"><rect class="c3" x="369.0" y="200" height="40" width="0"/></clipPath>
+    <text x="369.0" y="228" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#7dd3fc" clip-path="url(#cp3)">Learning by breaking things, safely</text>
+    <rect class="k3 blink" x="0" y="207" width="2.5" height="26" fill="#7dd3fc"/>
+  </g>
+</g>
+</svg>

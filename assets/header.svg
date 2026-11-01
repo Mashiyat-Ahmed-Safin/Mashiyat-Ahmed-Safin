@@ -45,22 +45,22 @@
 </g>
 <g class="g0">
   <clipPath id="cp0"><rect class="c0" x="441.6" y="150" height="40" width="0"/></clipPath>
-  <text x="441.6" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" clip-path="url(#cp0)">Cybersecurity Enthusiast</text>
+  <text x="441.6" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" textLength="316.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#cp0)">Cybersecurity Enthusiast</text>
   <rect class="k0" x="0" y="157" width="2.5" height="26" fill="#0ea5e9"/>
 </g>
 <g class="g1">
   <clipPath id="cp1"><rect class="c1" x="421.8" y="150" height="40" width="0"/></clipPath>
-  <text x="421.8" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" clip-path="url(#cp1)">Game Developer | Unity &amp; C#</text>
+  <text x="421.8" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" textLength="356.4" lengthAdjust="spacingAndGlyphs" clip-path="url(#cp1)">Game Developer | Unity &amp; C#</text>
   <rect class="k1" x="0" y="157" width="2.5" height="26" fill="#0ea5e9"/>
 </g>
 <g class="g2">
   <clipPath id="cp2"><rect class="c2" x="435.0" y="150" height="40" width="0"/></clipPath>
-  <text x="435.0" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" clip-path="url(#cp2)">Computer Science Graduate</text>
+  <text x="435.0" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" textLength="330.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#cp2)">Computer Science Graduate</text>
   <rect class="k2" x="0" y="157" width="2.5" height="26" fill="#0ea5e9"/>
 </g>
 <g class="g3">
   <clipPath id="cp3"><rect class="c3" x="342.6" y="150" height="40" width="0"/></clipPath>
-  <text x="342.6" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" clip-path="url(#cp3)">Learning by breaking things (safely...)</text>
+  <text x="342.6" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" textLength="514.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#cp3)">Learning by breaking things (safely...)</text>
   <rect class="k3" x="0" y="157" width="2.5" height="26" fill="#0ea5e9"/>
 </g>
 </svg>

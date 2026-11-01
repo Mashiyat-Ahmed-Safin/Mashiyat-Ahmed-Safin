@@ -24,11 +24,11 @@
 .c2 { animation: type2 14.0s steps(25) infinite; width:0 }
 .k2 { animation: car2 14.0s steps(25) infinite }
 @keyframes show3 { 0%,75.00% {opacity:0} 75.01%,99.50% {opacity:1} 99.51%,100% {opacity:0} }
-@keyframes type3 { 0%,75.00% {width:0} 85.00%,100% {width:466px} }
-@keyframes car3 { 0%,75.00% {transform:translateX(369.0px)} 85.00%,100% {transform:translateX(835.0px)} }
+@keyframes type3 { 0%,75.00% {width:0} 85.00%,100% {width:519px} }
+@keyframes car3 { 0%,75.00% {transform:translateX(342.6px)} 85.00%,100% {transform:translateX(861.4px)} }
 .g3 { animation: show3 14.0s linear infinite; opacity:0 }
-.c3 { animation: type3 14.0s steps(35) infinite; width:0 }
-.k3 { animation: car3 14.0s steps(35) infinite }
+.c3 { animation: type3 14.0s steps(39) infinite; width:0 }
+.k3 { animation: car3 14.0s steps(39) infinite }
 </style>
 <defs>
   <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
@@ -59,8 +59,8 @@
   <rect class="k2" x="0" y="157" width="2.5" height="26" fill="#0ea5e9"/>
 </g>
 <g class="g3">
-  <clipPath id="cp3"><rect class="c3" x="369.0" y="150" height="40" width="0"/></clipPath>
-  <text x="369.0" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" clip-path="url(#cp3)">Learning by breaking things (safely...)</text>
+  <clipPath id="cp3"><rect class="c3" x="342.6" y="150" height="40" width="0"/></clipPath>
+  <text x="342.6" y="178" font-family="'Cascadia Code', Consolas, 'Courier New', monospace" font-size="22" fill="#0ea5e9" clip-path="url(#cp3)">Learning by breaking things (safely...)</text>
   <rect class="k3" x="0" y="157" width="2.5" height="26" fill="#0ea5e9"/>
 </g>
 </svg>

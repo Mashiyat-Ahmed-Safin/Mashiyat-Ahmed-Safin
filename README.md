@@ -4,7 +4,6 @@
 <h3 align="center">Cybersecurity Enthusiast | Game Developer | Computer Science Graduate</h3>
 
 ---
-
 ## About Me
 
 I'm a Computer Science graduate from BRAC University with professional experience in product operations, software testing, quality assurance, and backend operations.

@@ -34,6 +34,10 @@ Currently developing my knowledge and practical skills in:
 
 - Cisco Networking Academy: Introduction to Cybersecurity
 
+**Blog**
+
+- [Security notes from a learner](https://mashiyat-ahmed-safin.github.io/): what I'm learning in security, explained in my own words
+
 ## Game Development
 
 I'm into pixel art, retro-style games, atmospheric experiences, and small projects with thoughtful gameplay.
@@ -91,7 +95,9 @@ I enjoy both sides of technology: **building things people love to use and learn
 
 **Email:** [mashiyat.safin@gmail.com](mailto:mashiyat.safin@gmail.com)
 
-**GitHub:** [@Toji-Fushiguro28](https://github.com/Toji-Fushiguro28)
+**Blog:** [mashiyat-ahmed-safin.github.io](https://mashiyat-ahmed-safin.github.io/)
+
+**GitHub:** [@Mashiyat-Ahmed-Safin](https://github.com/Mashiyat-Ahmed-Safin)
 
 ---
 

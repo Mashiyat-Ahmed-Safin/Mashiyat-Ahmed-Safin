@@ -1,14 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="I enjoy both sides of technology: building things people love to use, and learning how to make them secure.">
-<style>.shine { animation: sh 6s ease-in-out infinite } @keyframes sh { 0%,100% { opacity:.35 } 50% { opacity:.8 } }</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="I enjoy both sides of technology: building things people love to use, and learning how to make them secure.">
+<style>.flow { animation: flow 8s linear infinite } @keyframes flow { from { transform: translateX(-1200px) } to { transform: translateX(0) } }</style>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563eb"/><stop offset="0.5" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
-  <filter id="b" x="-20%" y="-200%" width="140%" height="500%"><feGaussianBlur stdDeviation="22"/></filter>
-  <clipPath id="f"><rect width="1200" height="120" rx="22"/></clipPath>
+  <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="2400" y2="0">
+    <stop offset="0" stop-color="#2563eb" stop-opacity="0"/><stop offset="0.25" stop-color="#2563eb"/><stop offset="0.5" stop-color="#7c3aed"/><stop offset="0.75" stop-color="#0891b2"/><stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="lc"><rect x="300" y="10" width="600" height="3" rx="1.5"/></clipPath>
 </defs>
-<g clip-path="url(#f)">
-  <rect width="1200" height="120" fill="#070b14"/>
-  <rect class="shine" x="150" y="90" width="900" height="40" fill="url(#bg)" filter="url(#b)"/>
-  <rect x="1" y="1" width="1198" height="118" rx="22" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.16"/>
-  <text x="600" y="66" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-style="italic" fill="#cbd5e1">I enjoy both sides of technology: building things people love to use, and learning how to make them secure.</text>
-</g>
+<g clip-path="url(#lc)"><rect class="flow" x="0" y="10" width="2400" height="3" fill="url(#line)"/></g>
+<text x="600" y="58" text-anchor="middle" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="19" font-style="italic" fill="#8b949e">I enjoy both sides of technology: building things people love to use, and learning how to make them secure.</text>
 </svg>

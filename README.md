@@ -1,9 +1,9 @@
 <picture><img src="assets/header.svg" width="100%" alt="Mashiyat Ahmed Safin: Cybersecurity Enthusiast, Game Developer, Computer Science Graduate" /></picture>
 
 <p align="center">
-  <a href="https://mashiyat-ahmed-safin.github.io/"><img src="assets/btn-blog.svg" height="46" alt="Blog" /></a>&nbsp;
-  <a href="mailto:mashiyat.safin@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email" /></a>&nbsp;
-  <a href="https://toji28.itch.io"><img src="assets/btn-itch.svg" height="46" alt="My Games on itch.io" /></a>
+  <a href="https://mashiyat-ahmed-safin.github.io/"><img src="assets/btn-blog.svg" height="44" alt="Blog" /></a>&nbsp;
+  <a href="mailto:mashiyat.safin@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email" /></a>&nbsp;
+  <a href="https://toji28.itch.io"><img src="assets/btn-itch.svg" height="44" alt="My Games on itch.io" /></a>
 </p>
 
 ## About Me
@@ -49,14 +49,14 @@ I'm into pixel art, retro-style games, atmospheric experiences, and small projec
 
 A cozy library management game with a mysterious twist, made with **Team Edgerunners** for a game jam. Manage books, help readers, repair damaged items, and keep the library running. After closing time, you might discover you're not alone.
 
-<a href="https://arkesphere.itch.io/the-whitmore-library"><img src="assets/btn-play.svg" height="46" alt="Play The Whitmore Library" /></a>
+<a href="https://arkesphere.itch.io/the-whitmore-library"><img src="assets/btn-play.svg" height="44" alt="Play The Whitmore Library" /></a>
 
 ## Tech Stack
 
 <p align="center">
-  <picture><img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,mysql&theme=dark" alt="Python, Java, C#, C++, JavaScript, MySQL" /></picture><br /><br />
-  <picture><img src="https://skillicons.dev/icons?i=unity,linux,windows,powershell,bash&theme=dark" alt="Unity, Linux, Windows, PowerShell, Bash" /></picture><br /><br />
-  <picture><img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" alt="Git, GitHub, VS Code, Node.js" /></picture><br /><br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,cs,cpp,js,mysql&theme=dark" /><img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,mysql&theme=light" alt="Python, Java, C#, C++, JavaScript, MySQL" /></picture><br /><br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity,linux,windows,powershell,bash&theme=dark" /><img src="https://skillicons.dev/icons?i=unity,linux,windows,powershell,bash&theme=light" alt="Unity, Linux, Windows, PowerShell, Bash" /></picture><br /><br />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" /><img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=light" alt="Git, GitHub, VS Code, Node.js" /></picture><br /><br />
   <picture><img src="assets/tools.svg" height="40" alt="Wireshark, Cisco Packet Tracer, TCP/IP" /></picture>
 </p>
 
